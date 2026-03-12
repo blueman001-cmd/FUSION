@@ -1,4 +1,6 @@
 # FUSION
-Multi-view and Multi-scale Fusion based Smart Contract Vulnerability Detection Model.
+dataset: https://github.com/Messi-Q/Smart-Contract-Dataset
 
-We will provide our source code after the paper is accepted.
+data proprecessing: https://github.com/plotchy/evm-cfg/
+
+any question: 1987562392@qq.com
